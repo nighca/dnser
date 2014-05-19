@@ -1,0 +1,9 @@
+{
+    "remoteDNSServer": {
+        "host": "10.1.30.6",
+        "port": 53
+    },
+    "selfAddress": "192.168.1.1",
+    "selfDomains": ["dnser.com", "www.dnser.com", "xxx.com", "www.xxx.com"],
+    "pageServerPort": 3031
+}
